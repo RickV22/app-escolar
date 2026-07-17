@@ -1,6 +1,6 @@
 # App Escolar
 
-Plataforma web de comunicación escolar diseñada para conectar a profesores y padres de familia, facilitando el seguimiento académico y la comunicación diaria entre la institución y las familias.
+Plataforma web de comunicación escolar diseñada para conectar a profesores y padres de familia, facilitando el seguimiento académico y la comunicación diaria entre la institución y las familias. (Es solo una muetsra de diseño)
 
 ## Descripción
 
