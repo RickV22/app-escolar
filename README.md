@@ -28,5 +28,4 @@ App Escolar centraliza la comunicación entre profesores, estudiantes y padres e
 El proyecto utiliza una capa de datos simulada (mock data) para el desarrollo y pruebas, junto con un `ChatContext` que gestiona el estado global de los mensajes y los indicadores de no leídos en toda la aplicación.
 
 ## Estado del proyecto
-
-En desarrollo activo.
+En desarrollo activo
